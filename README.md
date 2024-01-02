@@ -51,8 +51,8 @@ CREATE TABLE details (
 - **Request Body Example:**
     ```json
     {  
-        "name": "test",
-        "location": "test"
+        "name": "MCC-CONTAINER",
+        "location": "India"
     }
     ```
 
@@ -64,8 +64,8 @@ CREATE TABLE details (
     ```json
     {   
         "id": "25",
-        "name": "test",
-        "location": "test"
+        "name": "MCC-CONTAINER",
+        "location": "India"
     }
     ```
 
